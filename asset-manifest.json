@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/project-guava-web/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/project-guava-web/static/js/main.f2b0ccb7.chunk.js",
+    "main.js.map": "/project-guava-web/static/js/main.f2b0ccb7.chunk.js.map",
+    "runtime-main.js": "/project-guava-web/static/js/runtime-main.b6b373f5.js",
+    "runtime-main.js.map": "/project-guava-web/static/js/runtime-main.b6b373f5.js.map",
+    "static/js/2.a3da9ac4.chunk.js": "/project-guava-web/static/js/2.a3da9ac4.chunk.js",
+    "static/js/2.a3da9ac4.chunk.js.map": "/project-guava-web/static/js/2.a3da9ac4.chunk.js.map",
+    "static/js/3.2c286bdd.chunk.js": "/project-guava-web/static/js/3.2c286bdd.chunk.js",
+    "static/js/3.2c286bdd.chunk.js.map": "/project-guava-web/static/js/3.2c286bdd.chunk.js.map",
+    "index.html": "/project-guava-web/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/project-guava-web/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.a3da9ac4.chunk.js.LICENSE.txt": "/project-guava-web/static/js/2.a3da9ac4.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/project-guava-web/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6b373f5.js",
+    "static/js/2.a3da9ac4.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.f2b0ccb7.chunk.js"
+  ]
+}
